@@ -1,0 +1,28 @@
+_repo: The-Laurel-Health-CookeryWays_43468
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43468-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Perkins, Evora Bucknum
+    gutenberg_agent_id: '42228'
+    url: http://www.gutenberg.org/2009/agents/42228
+description: ''
+gutenberg_issued: '2013-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43468'
+  lccn: '12001011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Vegetarianism'
+- !lcsh 'Vegetarian cooking'
+- !lcsh 'Cooking, American'
+title: "The Laurel Health Cookery\r\nA Collection of Practical Suggestions and Recipes\
+  \ for the Preparation of Non-Flesh Foods in Palatable and Attractive Ways"
+url: http://www.gutenberg.org/ebooks/43468
